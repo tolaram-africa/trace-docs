@@ -1,7 +1,7 @@
 {
   "name": "@trace/docs",
   "description": "Trace documentation",
-  "version": "0.0.1",
+  "version": "0.0.1-alpha.1",
   "private": true,
   "author": "radioActive DROID <me@godwin.dev>",
   "license": "RPL-1.5",
